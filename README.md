@@ -18,7 +18,7 @@ A full-stack machine learning application that predicts daily stock price moveme
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/stock-market-analyzer.git](https://github.com/YOUR_USERNAME/stock-market-analyzer.git)
+    git clone https://github.com/YOUR_USERNAME/stock-market-analyzer.git
     cd stock-market-analyzer
     ```
 
